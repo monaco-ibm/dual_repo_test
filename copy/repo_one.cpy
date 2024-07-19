@@ -1,3 +1,3 @@
       * test
-       01  FISRTNAME PIC X(20) VALUE "Victor".
+       01  FIRSTNAME PIC X(20) VALUE "Victor".
  
