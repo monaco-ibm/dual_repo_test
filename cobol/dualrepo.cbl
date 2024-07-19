@@ -10,8 +10,8 @@
        DATA DIVISION.
        WORKING-STORAGE SECTION.
 
-       COPY REPO_ONE.
-       COPY REPO_TWO.
+       COPY REPOONE.
+       COPY REPOTWO.
       /
        PROCEDURE DIVISION.
        Main.
